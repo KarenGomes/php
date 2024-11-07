@@ -1,0 +1,5 @@
+<?php
+    $fulano = "nome"
+
+
+?> 
