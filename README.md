@@ -32,5 +32,5 @@ Este projeto foi criado para armazenar e organizar exercícios, exemplos e teste
 
 phpMyAdmin para gerenciar os dados:
 
-- Acesse http://localhost/phpmyadmin e crie o banco de dados e tabelas necessárias.
+- Acesse `http://localhost/phpmyadmin` e crie o banco de dados e tabelas necessárias.
 - Configure a conexão no código PHP para acessar o banco localmente.
