@@ -25,8 +25,8 @@ Este projeto foi criado para armazenar e organizar exercícios, exemplos e teste
 
 2. WAMP:
 
-- Coloque os arquivos PHP na pasta www do WAMP (C:\wamp64\www\ por padrão).
-- Acesse o script pelo navegador, digitando http://localhost/nome_do_arquivo.php.
+- Coloque os arquivos PHP na pasta www do WAMP (`C:\wamp64\www\` por padrão).
+- Acesse o script pelo navegador, digitando `http://localhost/nome_do_arquivo.php`.
 
 3. Banco de dados:
 
