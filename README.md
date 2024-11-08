@@ -28,9 +28,7 @@ Este projeto foi criado para armazenar e organizar exercícios, exemplos e teste
 - Coloque os arquivos PHP na pasta www do WAMP (`C:\wamp64\www\` por padrão).
 - Acesse o script pelo navegador, digitando `http://localhost/nome_do_arquivo.php`.
 
-3. Banco de dados:
-
-phpMyAdmin para gerenciar os dados:
+3. Banco de dados (phpMyAdmin):
 
 - Acesse `http://localhost/phpmyadmin` e crie o banco de dados e tabelas necessárias.
 - Configure a conexão no código PHP para acessar o banco localmente.
